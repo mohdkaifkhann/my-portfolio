@@ -8,9 +8,9 @@ behavior:"smooth"
 
 
 const roles = [
-"Web Developer",
-"MCA Student",
-"JavaScript Developer",
+"Python Developer",
+"MCA Fresher",
+"React Developer",
 "Programmer"
 ]
 
